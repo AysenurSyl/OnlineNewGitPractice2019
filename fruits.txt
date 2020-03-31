@@ -4,3 +4,4 @@ kiwi
 dragon fruit
 strawberry
 apple
+lemon
