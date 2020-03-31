@@ -5,3 +5,4 @@ dragon fruit
 strawberry
 apple
 lemon
+pear
